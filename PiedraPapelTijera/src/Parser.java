@@ -22,7 +22,7 @@ public class Parser{
     public Move getMove(){
         
 	    String command = null;
-	    System.out.print("Tu elección: ");
+	    System.out.print("Tu elecciOn: ");
 	    
 	    String input = reader.nextLine();
 
